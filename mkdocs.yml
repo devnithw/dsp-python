@@ -1,0 +1,19 @@
+site_name: Digital Signal Processing 
+theme:
+  name: material
+  features: 
+    - navigation.instant
+    - search.suggest
+  language: en
+  palette:
+    primary: black
+    accent: indigo
+
+plugins: 
+  - mkdocs-jupyter:
+      include_source: True
+
+nav:
+  - Home: 'index.md'
+  - Test: 'Untitled.ipynb'
+  - Test2: 'test.ipynb'
