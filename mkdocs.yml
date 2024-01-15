@@ -1,4 +1,10 @@
 site_name: Digital Signal Processing 
+site_url: https://devnithw.github.io/dsp-python
+site_description: A collection of Digital Signal Processing project notebooks using Python
+
+repo_url: https://github.com/devnithw/dsp-python
+repo_name: devnithw/dsp-python
+
 theme:
   name: material
   features: 
@@ -12,6 +18,7 @@ theme:
 plugins: 
   - mkdocs-jupyter:
       include_source: True
+  - search
 
 nav:
   - Home: 'index.md'
