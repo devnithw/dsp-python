@@ -15,5 +15,5 @@ plugins:
 
 nav:
   - Home: 'index.md'
-  - Test: 'Untitled.ipynb'
+  - comchannel: 'communications_channel.ipynb'
   - Test2: 'test.ipynb'
