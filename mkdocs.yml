@@ -23,4 +23,4 @@ plugins:
 nav:
   - Home: 'index.md'
   - comchannel: 'communications_channel.ipynb'
-  - Test2: 'test.ipynb'
+  - denoisesignal: 'denoise_signal.ipynb'
