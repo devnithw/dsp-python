@@ -26,8 +26,10 @@ nav:
   - ecg_conditioning: 'ecg_conditioning.ipynb'
 
 markdown_extensions:
+  - admonition
   - pymdownx.arithmatex:
       generic: true
+
 
 extra_javascript:
   - javascripts/mathjax.js
