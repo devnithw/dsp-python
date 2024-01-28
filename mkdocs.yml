@@ -22,5 +22,5 @@ plugins:
 
 nav:
   - Home: 'index.md'
-  - comchannel: 'communications_channel.ipynb'
   - denoisesignal: 'denoise_signal.ipynb'
+  - ecg_conditioning: 'ecg_conditioning.ipynb'
