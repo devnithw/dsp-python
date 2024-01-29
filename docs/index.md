@@ -19,4 +19,4 @@ Full github repository can be found out [here](https://github.com/devnithw/dsp-p
 
 !!! question "About Me"
 
-    I am a second year Biomedical Engineering undergraduate at University of Moratuwa. I am interested in learning about signal processing and deep learning. I write articles and tutorials about what I learn so I created this collection of mini-projects that I have done to share with the world. 
+    I am Devnith Wijesinghe, a second year Biomedical Engineering undergraduate at University of Moratuwa. I am interested in learning about signal processing and deep learning. I write articles and tutorials about what I learn so I created this collection of mini-projects that I have done to share with the world. Feel free to reach me at wijesinghecd.21@uom.lk
